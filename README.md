@@ -1,6 +1,6 @@
-### Olá, eu sou Iara.
+### Olá pessual, sejam bem vindos ao meu GitHub!
 
-- ❤️ Estudante de programação 3/6.
+Meu nome é Iara de Matos Galdino, tenho 16 anos, sou estudante do Instituto Federal do Ceará - IFCE. Faço curso de Informática e atualmente estou no 3° semestre. 💗
 
 <div align="center">
   <a href="https://github.com/IaraMatosG">
